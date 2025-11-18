@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 # -----------------------------
@@ -97,3 +95,4 @@ elif menu == "연도+컬럼 선택 분석":
     show_custom_analysis()
 elif menu == "연도별 전체 분석":
     show_yearly_total()
+
