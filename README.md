@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=MW2uH6agjCk
 |------|------|
 | 오현서 | Streamlit 페이지 구성 |
 | 차지현 | 기획 및 페이지구성  |
-
+https://github.com/algamja67/school/invitations
 ---
 
 ## 7. 🌐 외부 URL (Streamlit Cloud / 서버)
