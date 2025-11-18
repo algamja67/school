@@ -95,7 +95,7 @@
 ## 7. 🌐 외부 URL (Streamlit Cloud / 서버)
 웹서비스 실제 실행 주소:
 
-➡️ [http://223.194.169.158](https://school-kootklfkfym5cabn2whcuj.streamlit.app/)
+➡️ https://school-kootklfkfym5cabn2whcuj.streamlit.app
 
 ---
 
