@@ -79,9 +79,7 @@
 ---
 
 ## 5. 🎥 시연 동영상
-## 🎥 시연 영상
-[![시연 영상](https://img.youtube.com/vi/MW2uH6agjCk/0.jpg)](https://youtu.be/MW2uH6agjCk)
-
+https://www.youtube.com/watch?v=MW2uH6agjCk
 
 ---
 
