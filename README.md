@@ -106,4 +106,4 @@
 전체 프로젝트 코드는 GitHub Repository에 업로드됨.
 
 📂 GitHub Repository  
-➡️ https://github.com/your-repo-url
+➡️ https://github.com/algamja67/school
